@@ -1,4 +1,4 @@
 <?php
 	echo " BONJOUR ";
-	echo " COMMENT CA VA JAMY ?";
+	echo " COMMENT CA VA JEAN JACQUES ??";
 ?>
